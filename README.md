@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td valign="top">
-      <div style="font-size: 30px;">
+      <div style="font-size: 50px;">
         🔭 I’m currently working on: <code style="color: pink;">EsBook</code><br>
         🌱 I’m currently learning: <code style="color: pink;">Generative AI & Agentic AI</code> <br>
         💬 Ask me about: <code style="color: pink;">Machine learning, AI agents</code> <br>
@@ -18,7 +18,7 @@
       </div>
     </td>
     <td align="right">
-      <img src="https://i.pinimg.com/1200x/f4/fc/01/f4fc018e3449a5ae18b534436a4203b3.jpg" alt="sanketborse" width="250" />
+      <img src="https://i.pinimg.com/1200x/f4/fc/01/f4fc018e3449a5ae18b534436a4203b3.jpg" alt="sanketborse" width="450" />
     </td>
   </tr>
 </table>
