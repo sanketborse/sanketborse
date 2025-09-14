@@ -7,9 +7,9 @@
 
 # 💫 About Me:
 
-<table align="center>
+<table >
   <tr>
-    <td valign="top">
+    <td valign="top" align="center>
       <div style="font-size: 50px;">
         🔭 I’m currently working on: <code style="color: pink;">EsBook</code><br>
         🌱 I’m currently learning: <code style="color: pink;">Generative AI & Agentic AI</code> <br>
