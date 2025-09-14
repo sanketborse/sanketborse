@@ -2,9 +2,8 @@
 <p align="center">
     <img width="800" src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif)" alt="Material Bread logo"> </p>
 <h1 align="center">Hi 👋, I'm Sanket Borse </h1>
-cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviabbugari&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviabbugari" /> </p>
+<p align="left"> <img src="https://github.com/sanketborse" alt="sanketborse" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
