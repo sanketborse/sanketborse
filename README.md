@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-<table>
+<table align="center>
   <tr>
     <td valign="top">
       <div style="font-size: 50px;">
