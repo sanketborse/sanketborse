@@ -18,7 +18,7 @@
       </div>
     </td>
     <td align="right">
-      <img src="https://i.pinimg.com/1200x/f4/fc/01/f4fc018e3449a5ae18b534436a4203b3.jpg" alt="sanketborse" width="300" />
+      <img src="[https://i.pinimg.com/1200x/f4/fc/01/f4fc018e3449a5ae18b534436a4203b3.jpg](https://img.freepik.com/premium-vector/south-asian-male-software-developer-his-20s-writing-code_1238364-99961.jpg?semt=ais_hybrid&w=740&q=80)" alt="sanketborse" width="300" />
     </td>
   </tr>
 </table>
