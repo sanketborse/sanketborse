@@ -10,7 +10,7 @@
 <table >
   <tr>
     <td valign="top" align="center>
-      <div style="font-size: 60px;">
+      <div style="font-size: 65px;">
         🔭 I’m currently working on: <code style="color: pink;">EsBook</code><br>
         🌱 I’m currently learning: <code style="color: pink;">Generative AI & Agentic AI</code> <br>
         💬 Ask me about: <code style="color: pink;">Machine learning, AI agents</code> <br>
