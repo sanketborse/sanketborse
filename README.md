@@ -6,11 +6,20 @@
 
 
 # 💫 About Me:
-<p align="right">
-  <img src="https://i.pinimg.com/1200x/f4/fc/01/f4fc018e3449a5ae18b534436a4203b3.jpg" alt="sanketborse" width="100" />
-</p>
-🔭 I’m currently working  on: <code style="color : pink">EsBook</code><br>🌱 I’m currently learning: <code style="color : pink">Generative AI & Agentic AI</code> <br>💬 Ask me about:<code style="color : pink">Machine learning, AI agents</code> <br>⚡ Fun fact: <code style="color : pink">I write my own quotes</code><br>
 
+<table>
+  <tr>
+    <td valign="top">
+      🔭 I’m currently working on: <code style="color: pink;">EsBook</code><br>
+      🌱 I’m currently learning: <code style="color: pink;">Generative AI & Agentic AI</code> <br>
+      💬 Ask me about: <code style="color: pink;">Machine learning, AI agents</code> <br>
+      ⚡ Fun fact: <code style="color: pink;">I write my own quotes</code><br>
+    </td>
+    <td align="right">
+      <img src="https://i.pinimg.com/1200x/f4/fc/01/f4fc018e3449a5ae18b534436a4203b3.jpg" alt="sanketborse" width="100" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanket-borse-617208209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Xborse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:borsesanket21@gmail.com) 
