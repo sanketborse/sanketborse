@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working  on: EsBook<br>🌱 I’m currently learning: Generative AI & Agentic AI <br>💬 Ask me about: Machine learning, AI agents<br>⚡ Fun fact: I write my own quotes
+🔭 I’m currently working  on: <code style="color : pink">EsBook</code><br>🌱 I’m currently learning: <code style="color : pink">Generative AI & Agentic AI</code> <br>💬 Ask me about:<code style="color : pink">Machine learning, AI agents</code> <br>⚡ Fun fact: I write my own quotes
 
 
 ## 🌐 Socials:
