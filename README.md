@@ -18,7 +18,7 @@
       </div>
     </td>
     <td align="right">
-      <img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" alt="sanketborse" width="300" />
+      <img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" alt="sanketborse" width="500" />
     </td>
   </tr>
 </table>
