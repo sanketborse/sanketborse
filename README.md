@@ -71,6 +71,7 @@ if '__repo__' == '__helpful__':
 </p>
 
 <!-- Github Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketborse&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<!-- Github Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketborse&show_icons=true&include_all_commits=true&count_private=true" alt="github stats">
 
 <!--Footer-->
