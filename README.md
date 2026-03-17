@@ -22,7 +22,8 @@ if '__repo__' == '__helpful__':
 ```
 
 <!--Social Channel-->
-<a href="https://www.linkedin.com/in/borsesanket21/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<!-- Github Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketborse&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
 
