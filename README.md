@@ -22,7 +22,7 @@ if '__repo__' == '__helpful__':
 ```
 
 <!--Social Channel-->
-<a href="https://www.linkedin.com/in/sanket-borse"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/borsesanket21/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 
 
 
