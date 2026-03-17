@@ -1,48 +1,45 @@
+## About me
 
-<p align="center">
-    <img width="800" src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif)" alt="Material Bread logo"> </p>
-<h1 align="center">Hi 👋, I'm Sanket Borse </h1>
+```python
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "M.Tech Computer Engineering (Data Science) Student"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "Agentic AI, Large Language Models & RAG 📚"
+        self.currently_working_on = "Multi-Agent Railway Reservation System 🌱"
+        self.excited_for = "Generative AI & Autonomous AI Agents 🌎"
+    
+    def contact_me(self):
+        self.email = "borsesanket21@gmail.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+```
+
+<!--Social Channel-->
+<a href="https://www.linkedin.com/in/sanket-borse"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 
 
 
-# 💫 About Me:
+<!-- Programmer gif -->
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
-<table >
-  <tr>
-    <td valign="top" align="center>
-      <div style="font-size: 65px;">
-        🔭 I’m currently working on: <code style="color: pink;">EsBook</code><br>
-        🌱 I’m currently learning: <code style="color: pink;">Generative AI & Agentic AI</code> <br>
-        💬 Ask me about: <code style="color: pink;">Machine learning, AI agents</code> <br>
-        ⚡ Fun fact: <code style="color: pink;">I write my own quotes</code><br>
-      </div>
-    </td>
-    <td align="right">
-      <img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" alt="sanketborse" width="550" />
-    </td>
-  </tr>
-</table>
+<!-- Language and tools badge-->
+## 🛠️ **Languages & Tools:**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanket-borse-617208209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Xborse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:borsesanket21@gmail.com) 
+<p><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanketborse&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanketborse&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketborse&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanketborse&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- Github Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketborse&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanketborse&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sanketborse&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--Footer-->
+<hr>
+<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
